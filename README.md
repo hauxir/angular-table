@@ -1,7 +1,7 @@
-Angular Table
+Angular Table Lite
 =============
-
-An angular directive for a table with fixed, sortable headers, row selection, row even/odd coloring, 
+This is a stripped down version of Angular Table that uses JQuery for handling table resizing but also adds the option for injecting variables to watch that trigger the resize event.
+Angular-table is an angular directive for a table with fixed, sortable headers, row selection, row even/odd coloring, 
 which automatically stays the correct height relative to its container when the browser is resized. 
 No javascript code required; the api is a 100% declarative dsl.
 
